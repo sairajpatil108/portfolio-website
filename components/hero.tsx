@@ -36,7 +36,7 @@ export default function Hero() {
             className="order-2 md:order-1 w-full md:w-2/3 space-y-4 text-center md:text-left"
           >
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight">
-              Hi, I'm <span className="text-primary">John Doe</span>
+              Hi, I'm <span className="text-primary">Sairaj Patil</span>
             </h1>
             <h2 className="text-xl md:text-2xl text-muted-foreground">
               Android & Flutter Developer | GenAI Enthusiast
